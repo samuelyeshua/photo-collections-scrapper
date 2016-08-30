@@ -12,12 +12,24 @@
     "free images",
     "photo-collections"
   ],
-  "autor": "Samuel Pereira Góes <samoel_deltree@live.com>",
+  "readmeFilename": "README.md" ,
+  "autor": {
+    "name": "Samuel Pereira",
+    "email": "samoel_deltree@live.com"
+  },
   "dependencies": {
     "cheerio": "^0.22.0",
     "sync-request": "^3.0.1"
   },
   "devDependencies": {
     "documentation": "^4.0.0-beta10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuelyeshua/photo-collections-scrapper"
+  },
+  "license": "GPLv3",
+  "engines": {
+    "node": "^6.1.0"
   }
 }
