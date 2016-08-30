@@ -1,0 +1,23 @@
+{
+  "name": "photo-collections-scrapper",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/_mocha ./tests/*_test.js"
+  },
+  "description": "Make data scraping the photoCollections.io, free stock photography copyright",
+  "keywords": [
+    "scrapper",
+    "scraping",
+    "free images",
+    "photo-collections"
+  ],
+  "autor": "Samuel Pereira Góes <samoel_deltree@live.com>",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "sync-request": "^3.0.1"
+  },
+  "devDependencies": {
+    "documentation": "^4.0.0-beta10"
+  }
+}
