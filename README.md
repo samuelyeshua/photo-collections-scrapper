@@ -7,4 +7,4 @@ Photo Collections Scrapper
     npm install photo-collections-scrapper --save
 
 ### Documentação
-[Documentação do modulo](https://github.com/samuelyeshua/photo-collections-scrapper/docs/)
+[Documentação do modulo](https://github.com/samuelyeshua/photo-collections-scrapper/tree/master/docs)
