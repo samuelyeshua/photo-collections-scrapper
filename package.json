@@ -17,6 +17,9 @@
     "name": "Samuel Pereira",
     "email": "samoel_deltree@live.com"
   },
+  "bugs": {
+    "url": "https://github.com/samuelyeshua/photo-collections-scrapper/issues"
+  },
   "dependencies": {
     "cheerio": "^0.22.0",
     "sync-request": "^3.0.1"
@@ -28,7 +31,7 @@
     "type": "git",
     "url": "git+https://github.com/samuelyeshua/photo-collections-scrapper"
   },
-  "license": "GPLv3",
+  "license": "GPL-3.0",
   "engines": {
     "node": "^6.1.0"
   }
